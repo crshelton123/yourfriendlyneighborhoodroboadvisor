@@ -34,13 +34,13 @@
     * Source: [Statista](https://www.statista.com/forecasts/1259591/robo-advisors-managing-assets-united-states)
 
 * Our data shows that roboadvisors are steadily growing. 
-        ![User growth in RoboAdvisors](RoboadvisorsUsersGrowth.png)
+        ![User growth in RoboAdvisors](plots/RoboadvisorsUsersGrowth.png)
 * Percent Share of users across different roboadvisor platforms in 2023 shows that the most widely used platforms are Betterment and Acorns. 
-        ![Percentage Share of Users](RoboadvisorProducts.png)
+        ![Percentage Share of Users](plots/RoboadvisorProducts.png)
 * Roboadvisor users are mostly younger people. 
-        ![Users by Age](Roboadvisorusers1.png)
+        ![Users by Age](plots/Roboadvisorusers1.png)
 * Roboadvisor users by gender shows that many more men are using these investing options than women. 
-        ![RoboAdvisors by Gender](Roboadvisorusers.png)
+        ![RoboAdvisors by Gender](plots/Roboadvisorusers.png)
 
 ---
 ### Summary of Findings
